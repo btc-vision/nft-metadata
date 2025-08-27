@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "converter",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "hyper-express": "^6.17.3",
+        "jsonrepair": "^3.13.0"
+    }
+}
